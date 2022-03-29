@@ -9,3 +9,4 @@ Il a pour but de simplifier le processus de maintenance d'un ascenseur, en rédu
 Il suffit de brancher le système en USB, et de lancer l'application dédiée SmartLift. 
 Le système dispose de plusieurs fonctions pour simuler des pannes.
 Grâce à l'application, vous pouvez intéragir avec la maquette et recevoir les alertes en cas de pannes.
+<img src="https://github.com/KornFlaXe/smartlift/blob/main/img/app_smartlift.jpg"/>
